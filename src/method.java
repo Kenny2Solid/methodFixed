@@ -1,4 +1,4 @@
-public class assignment{
+public class method {
 
     public static void main(String[] args) {
       checkNumber(2);
